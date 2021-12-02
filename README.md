@@ -34,3 +34,5 @@ ext = src[-4:] # this code is example for extracting extension from .jpg, .mp4
 
 - IPhone photo's names looks like 1632727390822-3.jpg in Window..
 
+### you can see more in https://www.youtube.com/watch?v=ylwBo1XZiNk&ab_channel=%EA%B9%80%EC%A3%BC%EA%B4%80
+
